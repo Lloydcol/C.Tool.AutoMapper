@@ -1,0 +1,12 @@
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\bin\Debug\net5.0\ToolBox.AutoMapper.deps.json
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\bin\Debug\net5.0\ToolBox.AutoMapper.dll
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\bin\Debug\net5.0\ref\ToolBox.AutoMapper.dll
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\bin\Debug\net5.0\ToolBox.AutoMapper.pdb
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.csprojAssemblyReference.cache
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.AssemblyInfo.cs
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.dll
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ref\ToolBox.AutoMapper.dll
+C:\Users\Lloyd\Desktop\GestProject\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.pdb
